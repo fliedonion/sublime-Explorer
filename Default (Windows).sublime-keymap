@@ -1,0 +1,4 @@
+[
+   { "keys": ["shift+alt+e"], "command":"open_explorer" },
+   { "keys": ["shift+alt+c"], "command": "open_explorer", "args": {"opt": "cmd"} }
+]
